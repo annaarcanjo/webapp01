@@ -10,3 +10,9 @@ Instalar o runtime na máquina física - done!
 
 ## Passo 3: 
 Clonar o repositório remoto na pasta c:AWSBraga
+
+## Passo 4: 
+Criar  Web App Blazor Claendário - Done!
+
+## Passo 5: 
+Criar o Dockerfile para a App Calendário!
